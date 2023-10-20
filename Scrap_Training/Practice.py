@@ -1,19 +1,27 @@
 import pandas as pd
-import numpy as np
 from bs4 import BeautifulSoup as bs
 from urllib.request import Request,urlopen 
 import csv
 import os
 import time
 
-
-site = ''
-req = Request(site,headers={'User-agent':'Mozilla/5.0'})
-webpage = urlopen(req)
-page = bs(webpage,"html.parser") # Parser la page
+ # Parser la page
 #Product = page.findAll("div","flex flex-1 flex-col p-3") 
 # Permet d'avoir tout les produits ( comics )
+test2 = ''
+for compteur in range(1,56,1) :
+    site = 'https://www.lacentrale.fr/listing?makesModelsCommercialNames=&options=&page='+str(compteur)+'&yearMax=1980'
+    req = Request(site,headers={'User-agent':'Mozilla/5.0'})
+    webpage = urlopen(req)
+    page = bs(webpage,"html.parser")
+    print(site)
+    time.sleep(2)
 
-data = [] # création d'une liste qui va contenir nos data
-alldata = []
-test = page.findAll("","")
+    for CompteurVoiture in range(1,16,1):
+        voiture = page.findAll("a",class_="Vehiculecard_Vehiculecard_vehiculeCard Containers_Containers_containers Containers_Containers_borderRadius Containers_Containers_darkShadowWide")
+        nom = voiture[CompteurVoiture].findAll("h2",class_="Text_Text_text Vehiculecard_Vehiculecard_title Text_Text_subtitle2")
+        print(nom[0].text)
+
+
+print (nom)
+
