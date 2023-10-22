@@ -85,3 +85,5 @@ for i in range (0,len(Europe_Capital),1):
             #print(Data)
             #print('\n')
 print(Data)
+
+# Number of Data = len(Europe_Capital)*20*10 = 20000

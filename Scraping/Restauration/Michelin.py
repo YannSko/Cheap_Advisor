@@ -89,3 +89,5 @@ for i in range(0,50):
 
             Data.append([name[0],fulllink,typeResto[0],Address])
             print(Data)
+
+# Number of Data = 50*22*14 = 15400
