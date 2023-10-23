@@ -20,7 +20,7 @@ import time
 # https://guide.michelin.com/fr/fr/copenhagen-region/copenhagen/restaurants/page/2
 
 ListeUrl = ["ile-de-france/paris/restaurants/","greater-london/london/restaurants/","berlin-region/berlin/restaurants/","lazio/roma/restaurants/","comunidad-de-madrid/restaurants/","lisboa-region/lisbon/restaurants/","noord-holland/amstelveen/restaurants","bruxelles-capitale/bruxelles/restaurants/","dublin/restaurants/","capital-region/copenhagen/restaurants/","oslo-region/restaurants/","stockholm-region/restaurants/","uusimaa/helsinki/restaurants/","capital-region-iceland/reykjavik/restaurants/","masovia/warsaw/restaurants/","prague/prague/restaurants","central-hungary/budapest/restaurants/","vienna/restaurants/","attica/athens/restaurants/","belgrade-region/restaurants/","zagreb-region/restaurants/",
-"tirana-region/tirana/restaurants/","skopje-region/skopje/restaurants/","podgorica-region/podgorica/restaurants/","pristina-region/pristina/restaurants/",
+"skopje-region/skopje/restaurants/","podgorica-region/podgorica/restaurants/","pristina-region/pristina/restaurants/",
 "tallinn-region/tallinn/restaurants/","riga-region/riga/restaurants/","vilnius-region/vilnius/restaurants/","chisinau-region/chisinau/restaurants/",
 "minsk-region/minsk/restaurants/","kyiv-region/kiev/restaurants/","tbilisi-region/tbilisi/restaurants/","yerevan-region/yerevan/restaurants/",
 "baki-region/baku/restaurants/","ankara-region/ankara/restaurants/","nicosia-region/nicosia/restaurants/","valletta-region/valletta/restaurants/",
