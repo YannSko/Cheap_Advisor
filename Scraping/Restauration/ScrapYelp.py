@@ -18,8 +18,9 @@ Data = []
 
 Europe_Capital = ["Berlin","Paris","Rome","Madrid","London","Lisbon","Amsterdam","Brussels","Dublin","Copenhagen","Oslo","Stockholm","Helsinki","Reykjavik","Moscow","Warsaw","Prague","Budapest","Vienna","Athens","Bucharest","Sofia","Belgrade","Zagreb","Tirana","Skopje","Podgorica","Pristina","Tallinn","Riga","Vilnius","Chisinau","Minsk","Kiev","Tbilisi","Yerevan","Baku","Ankara","Nicosia","Valletta","Vatican City","Monaco","San Marino","Andorra la Vella","Luxembourg","Vaduz","Bern","Bratislava","Ljubljana","Zurich","Geneva","Prague","Budapest","Vienna","Athens","Bucharest","Sofia","Belgrade","Zagreb","Tirana","Skopje","Podgorica","Pristina","Tallinn","Riga","Vilnius","Chisinau","Minsk","Kiev","Tbilisi","Yerevan","Baku","Ankara","Nicosia","Valletta","Vatican City","Monaco","San Marino","Andorra la Vella","Luxembourg","Vaduz","Bern","Bratislava","Ljubljana","Zurich","Geneva"]
 for i in range (0,len(Europe_Capital),1):
+    time.sleep(3)
     for j in tqdm(range(0,200,10)):
-        time.sleep(3)
+        time.sleep(5)
         url = "https://www.yelp.com/search?find_desc=restaurant&find_loc="+Europe_Capital[i]+"&sortby=review_count&start=" + str(j)
         print(url)
         req = Request(url,headers={'User-agent':'Mozilla/5.0'})
@@ -40,7 +41,7 @@ for i in range (0,len(Europe_Capital),1):
             Liste_Lien.append(fulllink)
 
             # Get the location of the restaurant
-
+            time.sleep(5)
             url = fulllink
             req = Request(url,headers={'User-agent':'Mozilla/5.0'})
             webpage = urlopen(req)
@@ -84,6 +85,12 @@ for i in range (0,len(Europe_Capital),1):
 
             #print(Data)
             #print('\n')
-print(Data)
+#print(Data)
 
 # Number of Data = len(Europe_Capital)*20*10 = 20000
+
+# Create a dataframe with the data of Michelin + Yelp
+df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
+df.to_csv('Data.csv',index=False,encoding='utf-8')
+print(df)
+
