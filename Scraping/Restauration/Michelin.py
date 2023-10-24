@@ -54,97 +54,63 @@ url = "https://guide.michelin.com/fr/fr/"
 
 Data = []
 # 22 éléments par pages
-for i in range(0,50):
-    #time.sleep(3)
-    url2 = url + ListeUrl[i] + "page/"
-    print(url2)
-    for j in tqdm(range(15)):  # add 15 later
-        #region Condition
-        if j ==6 and url2 == "https://guide.michelin.com/fr/fr/berlin-region/berlin/restaurants/page/":
-            break
-        elif j==5 and url2 == "https://guide.michelin.com/fr/fr/lazio/roma/restaurants/page/":
-            break
-        elif j==10 and url2 == "https://guide.michelin.com/fr/fr/comunidad-de-madrid/restaurants/page/":
-            break
-        elif j==3 and url2 == "https://guide.michelin.com/fr/fr/lisboa-region/lisbon/restaurants/page/":
-            break
-        elif j==6 and url2 == "https://guide.michelin.com/fr/fr/noord-holland/amstelveen/restaurants/page/":
-            break
-        elif j==3 and url2 == "https://guide.michelin.com/fr/fr/bruxelles-capitale/bruxelles/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/dublin/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/capital-region/copenhague/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/region-d-oslo/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/region-de-stockholm/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/uusimaa/helsinki/restaurants/page/":
-            break
-        elif j==1 and url2 == "https://guide.michelin.com/fr/fr/capital-region-iceland/reykjavik/restaurants/page/":
-            break
-        elif j==1 and url2 == "https://guide.michelin.com/fr/fr/masovia/warsaw/restaurants/page/":
-            break
-        elif j==2 and url2 == "https://guide.michelin.com/fr/fr/prague/prague/restaurants/page/":
-            break
-        #endregion
-        else: 
-            time.sleep(3)
-            url3 = url2 + str(j)
+url2 = "https://guide.michelin.com/en/restaurants/"+"page/"
+print(url2)
+for j in tqdm(range(840)):  # add 15 later
+    url3 = url2 + str(j)
 
-            print(url3)
-            req = Request(url3,headers={'User-agent':'Mozilla/5.0'})
-            webpage = urlopen(req)
-            page = bs(webpage,"html.parser") # Parser la page
+    print(url3)
+    req = Request(url3,headers={'User-agent':'Mozilla/5.0'})
+    webpage = urlopen(req)
+    page = bs(webpage,"html.parser") # Parser la page
 
 
-            restaurant_elements = page.findAll('div', class_='card__menu-content card__menu-content--flex js-match-height-content')
-            #print(restaurant_elements)
-            for Restaurant in restaurant_elements:
-                name = Restaurant.findAll('a')
-                # Remove the \n in the text
-                name[0] = name[0].text.strip()
+    restaurant_elements = page.findAll('div', class_='card__menu-content card__menu-content--flex js-match-height-content')
+    #print(restaurant_elements)
+    for Restaurant in restaurant_elements:
+        name = Restaurant.findAll('a')
+        # Remove the \n in the text
+        name[0] = name[0].text.strip()
 
-                # Get the link in the href attribute of the <a> tag
-                lien = Restaurant.findAll('a')
-                fulllink = 'https://guide.michelin.com' + lien[0]['href']
-                #print(fulllink)
+        # Get the link in the href attribute of the <a> tag
+        lien = Restaurant.findAll('a')
+        fulllink = 'https://guide.michelin.com' + lien[0]['href']
+        #print(fulllink)
 
-                # Get the location of the restaurant
-                url5 = fulllink
-                req5 = Request(url5,headers={'User-agent':'Mozilla/5.0'})
-                webpage5 = urlopen(req5)
-                page5 = bs(webpage5,"html.parser")
-                time.sleep(2)
-                # If no address, skip this restaurant
+        # Get the location of the restaurant
+        url5 = fulllink
+        req5 = Request(url5,headers={'User-agent':'Mozilla/5.0'})
+        webpage5 = urlopen(req5)
+        page5 = bs(webpage5,"html.parser")
+        #time.sleep(2)
+        # If no address, skip this restaurant
 
-                restaurant_elements5 = page5.findAll('div', class_='col-xl-4 order-xl-8 col-lg-5 order-lg-7 restaurant-details__aside')
-                #print(restaurant_elements)
+        restaurant_elements5 = page5.findAll('div', class_='col-xl-4 order-xl-8 col-lg-5 order-lg-7 restaurant-details__aside')
+        #print(restaurant_elements)
 
-                for elements5 in restaurant_elements5:
-                    element5 = elements5.findAll('li', class_="restaurant-details__heading--address")
-                    Address = element5[0].text
+        for elements5 in restaurant_elements5:
+            element5 = elements5.findAll('li', class_="restaurant-details__heading--address")
+            Address = element5[0].text
 
-                #print(Data)
+        #print(Data)
 
-                # Get the type of restaurant
-                Info = page5.findAll('div', class_ = "col-xl-8 col-lg-7 restaurant-details__components")
+        # Get the type of restaurant
+        Info = page5.findAll('div', class_ = "col-xl-8 col-lg-7 restaurant-details__components")
 
-                for info in Info:
-                    typeResto = info.findAll('li', class_='restaurant-details__heading-price')
-                    typeResto[0] = typeResto[0].text.replace('€',"")
-                    typeResto[0] = typeResto[0].text.replace('$',"")
-                    typeResto[0] = typeResto[0].text.replace('£',"")
-                    typeResto[0] = typeResto[0].replace('·',"")
-                    typeResto[0] = typeResto[0].strip()
+        for info in Info:
+            typeResto = info.findAll('li', class_='restaurant-details__heading-price')
+            typeResto[0] = typeResto[0].text.replace('€',"")
+            typeResto[0] = typeResto[0].replace('$',"")
+            typeResto[0] = typeResto[0].replace('£',"")
+            typeResto[0] = typeResto[0].replace('·',"")
+            typeResto[0] = typeResto[0].strip()
 
-                Data.append([name[0],fulllink,typeResto[0],Address])
+        Data.append([name[0],fulllink,typeResto[0],Address])
 #print(Data)
 
 # Number of Data = 50*22*14 = 15400
 
 # Create a dataframe with the data of Michelin + Yelp
-    df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
-    df.to_csv('CSV/Data.csv',index=True,encoding='utf-8')
-    print(df)
+df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
+df.to_csv('CSV/Data.csv',index=True,encoding='utf-8')
+print(df)
