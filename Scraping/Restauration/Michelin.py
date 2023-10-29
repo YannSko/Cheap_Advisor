@@ -56,9 +56,11 @@ Data = []
 # 22 éléments par pages
 url2 = "https://guide.michelin.com/en/restaurants/"+"page/"
 print(url2)
-for j in tqdm(range(840)):  # add 15 later
+for j in tqdm(range(546,835)):  # add 15 later
+    if j == 463 or j == 464:
+        continue
     url3 = url2 + str(j)
-
+    time.sleep(3)
     print(url3)
     req = Request(url3,headers={'User-agent':'Mozilla/5.0'})
     webpage = urlopen(req)
@@ -79,7 +81,8 @@ for j in tqdm(range(840)):  # add 15 later
 
         # Get the location of the restaurant
         url5 = fulllink
-        req5 = Request(url5,headers={'User-agent':'Mozilla/5.0'})
+        print(url5)
+        req5 = Request(url5,headers={'User-agent':'Mozilla/4.0'})
         webpage5 = urlopen(req5)
         page5 = bs(webpage5,"html.parser")
         #time.sleep(2)
@@ -102,15 +105,23 @@ for j in tqdm(range(840)):  # add 15 later
             typeResto[0] = typeResto[0].text.replace('€',"")
             typeResto[0] = typeResto[0].replace('$',"")
             typeResto[0] = typeResto[0].replace('£',"")
+            typeResto[0] = typeResto[0].replace('฿',"")
+            typeResto[0] = typeResto[0].replace('¥',"")
+            typeResto[0] = typeResto[0].replace('₫',"")
+            typeResto[0] = typeResto[0].replace('₩',"")
             typeResto[0] = typeResto[0].replace('·',"")
             typeResto[0] = typeResto[0].strip()
 
         Data.append([name[0],fulllink,typeResto[0],Address])
 #print(Data)
 
-# Number of Data = 50*22*14 = 15400
+    # Number of Data = 50*22*14 = 15400
 
-# Create a dataframe with the data of Michelin + Yelp
+    # Create a dataframe with the data of Michelin + Yelp
+    TempCSV = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
+    TempCSV.to_csv('CSV/TempData.csv',mode='a',index=True,encoding='utf-8')
+    print(TempCSV)
+
 df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
-df.to_csv('CSV/Data.csv',index=True,encoding='utf-8')
+df.to_csv('CSV/Data.csv',mode='a',index=True,encoding='utf-8')
 print(df)
