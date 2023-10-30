@@ -20,7 +20,9 @@ Europe_Capital = ["Berlin","Paris","Rome","Madrid","London","Lisbon","Amsterdam"
 for i in range (0,len(Europe_Capital),1):
     time.sleep(3)
     for j in tqdm(range(0,200,10)):
-        time.sleep(5)
+        if j == 90:
+            continue
+        time.sleep(2)
         url = "https://www.yelp.com/search?find_desc=restaurant&find_loc="+Europe_Capital[i]+"&sortby=review_count&start=" + str(j)
         print(url)
         req = Request(url,headers={'User-agent':'Mozilla/5.0'})
@@ -31,7 +33,7 @@ for i in range (0,len(Europe_Capital),1):
         for restaurant in restaurant_elements:
         # Nom du restaurant
             name = restaurant.findAll('a', class_='css-19v1rkv')
-            #print(name[0].text)
+            print(name[0].text)
             Liste_Nom.append(name[0].text)
 
             # Get the link in the href attribute of the <a> tag
@@ -41,12 +43,11 @@ for i in range (0,len(Europe_Capital),1):
             Liste_Lien.append(fulllink)
 
             # Get the location of the restaurant
-            time.sleep(5)
+            time.sleep(2)
             url = fulllink
             req = Request(url,headers={'User-agent':'Mozilla/5.0'})
             webpage = urlopen(req)
             page = bs(webpage,"html.parser")
-            time.sleep(3)
             # If no address, skip this restaurant
 
             restaurant_elements = page.findAll('p', class_='css-qyp8bo')
@@ -91,6 +92,6 @@ for i in range (0,len(Europe_Capital),1):
 
 # Create a dataframe with the data of Michelin + Yelp
 df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
-df.to_csv('Data.csv',index=False,encoding='utf-8')
+df.to_csv('Data.csv',mode='a',index=False,encoding='utf-8')
 print(df)
 
