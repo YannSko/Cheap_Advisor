@@ -1,4 +1,4 @@
-Titre1,Type,Lieux
+Titre,Type,Lieux
 1. The Royal Edinburgh Military Tattoo,�v�nements culturels,Vieille ville
 2. Oktoberfest,Festival gastronomique,
 3. Nuremberg Christmas Market,�v�nements culturels,Altstadt - St. Sebald
@@ -129,7 +129,7 @@ Titre1,Type,Lieux
 127. Aintree Grand National,Manifestations sportives,
 128. Su e Giu,Manifestations sportives,
 129. Sagra del Pesce,Festival gastronomique,
-"130. Lumiere London 2018, 18-21 January, 17.30-22.30",�v�nements culturels,
+130. Lumiere London 2018, 18-21 January, 17.30-22.30,�v�nements culturels,
 131. Xanthi�s Old Town Festival,�v�nements culturels,
 132. Mercatini di Natale,�v�nements culturels,
 133. The Sussex Steam Rally,Expositions,
@@ -227,7 +227,7 @@ Titre1,Type,Lieux
 225. Maison du diable - Espace culturel Fondation Fellini,Mus�es sp�cialis�s � �v�nements culturels,
 226. Gubbio e... Natale,�v�nements culturels,
 227. Nantwich Food Festival,Festival gastronomique,
-"228. Van Gogh Alive, Kensington Gardens, London",Expositions,Ouvert
+228. Van Gogh Alive, Kensington Gardens, London,Expositions,Ouvert
 229. Stade de la Maladi�re,Complexes sportifs � Manifestations sportives,
 230. Distortion,Festivals de musique,Indre�By (centre-ville)
 231. Les Miserables,�v�nements culturels,
@@ -256,7 +256,7 @@ Titre1,Type,Lieux
 254. Epsom Derby,Manifestations sportives,
 255. Celje,Manifestations sportives,
 256. Bath Christmas Market,�v�nements culturels,
-"257. Van Gogh Alive, Mediacity",Expositions,
+257. Van Gogh Alive, Mediacity,Expositions,
 258. Venice International Film Festival,�v�nements culturels,
 259. Banksy:Genius Or Vandal ?,Expositions,Ouvert
 260. Bridgwater Carnival,�v�nements culturels,
@@ -288,7 +288,7 @@ Titre1,Type,Lieux
 287. Namesti Miru Christmas Market,�v�nements culturels,Ouvert
 288. Schlosslichtspiele,�v�nements culturels,Innenstadt-West
 289. Centre Culturel Cor�en,�v�nements culturels,
-"290. La nuit aux Invalides : Lut�ce, 3000 ans d'histoire",�v�nements culturels,Tour Eiffel/Invalides
+290. La nuit aux Invalides : Lut�ce, 3000 ans d'histoire,�v�nements culturels,Tour Eiffel/Invalides
 291. Cranger Weihnachtszauber,�v�nements culturels,Ouvert
 292. Gay Pride Festival,�v�nements culturels,Centro
 293. Telekom Volt Festival,Festivals de musique,
@@ -302,9 +302,9 @@ Titre1,Type,Lieux
 ,,
 271. The Mystery Of Banksy - A Genius Mind,Mus�es sp�cialis�s � Expositions,Ouvert
 303. Marche de Noel de Kaysersberg,�v�nements culturels,
-"304. Nice, Baie des Lumi�res",�v�nements culturels,
+304. Nice, Baie des Lumi�res,�v�nements culturels,
 305. Mysternya,�v�nements culturels,
-"306. Vibrations, Cour D'honneur Du Palais Des Papes",�v�nements culturels,
+306. Vibrations, Cour D'honneur Du Palais Des Papes,�v�nements culturels,
 307. GT Bicycles Malverns Classic Mountain Bike Festival,Manifestations sportives,Ouvert
 308. Christmas Market Mainz,�v�nements culturels,
 309. Paris Techno Parade,�v�nements culturels,Od�on
@@ -379,9 +379,9 @@ Titre1,Type,Lieux
 378. Alm Advent,Festival gastronomique,Prater
 379. Havenfeesten,�v�nements culturels,
 380. Atelier D�gustation Immersif M�diavino,Festival gastronomique,Charonne
-"381. Exhibition ""Expansion of Reality""",Expositions,
+"381. Exhibition ""Expansion of Reality"",Expositions,"
 382. Cranbrook Apple Fair,�v�nements culturels,
-"383. Exposition ""Jos�phine Baker, Un Destin Extraordinaire""",Expositions,Ouvert
+"383. Exposition ""Jos�phine Baker, Un Destin Extraordinaire"",Expositions,Ouvert"
 384. Festa del Riso di Porto Tolle,Festival gastronomique,
 385. Remparts Et Lumi�res,�v�nements culturels,
 386. Rock in Rio Lisboa,Festivals de musique,
@@ -519,7 +519,7 @@ Titre1,Type,Lieux
 528. Art Paris Art Fair,�v�nements culturels,8e Arr. � �lys�e
 529. Barcelona International Comedy Festival,�v�nements culturels,El Poble Sec
 530. Citta Dei Robot,Expositions,
-"531. La nuit aux Invalides : Lut�ce, 3000 ans d'histoire",�v�nements culturels,Tour Eiffel/Invalides
+531. La nuit aux Invalides : Lut�ce, 3000 ans d'histoire,�v�nements culturels,Tour Eiffel/Invalides
 532. EDIT,�v�nements culturels � Expositions,Porta Garibaldi
 533. Hampshire Wine School,Cours et ateliers � D�gustations de bi�res,
 534. Jurassic World: The Exhibition,Expositions,Ouvert
@@ -708,11 +708,11 @@ Titre1,Type,Lieux
 831. Gugulan Rock,Festivals de musique,
 832. Rock La Mures,Festivals de musique,
 833. Bayerische Landesgartenschau Freyung 2023,�v�nements culturels,
-"834. ""Wings of Parma"" - Aviation Festival",Manifestations sportives � �v�nements culturels,
+"834. ""Wings of Parma"" - Aviation Festival,Manifestations sportives � �v�nements culturels,"
 835. KultStrand,�v�nements culturels,
 836. Bex & Arts,Expositions,Ouvert
 837. JAZZx Festival,Festivals de musique,
-"838. Fresque "" Soutien aux Populations d'Ukraine "" par C215",Expositions,
+"838. Fresque "" Soutien aux Populations d'Ukraine "" par C215,Expositions,"
 839. Caramulo Experience,Expositions,
 840. Palais des Congr�s & des Expositions Jacques Chirac,Centres de conventions � Expositions,
 ,,
@@ -796,7 +796,7 @@ Titre1,Type,Lieux
 935. Largs Viking Festival,Festival gastronomique,
 936. Mmmh Festival,Festival gastronomique,Ouvert
 937. Royal,Expositions,
-"938. Van Gogh Alive, Edinburgh",Expositions,
+938. Van Gogh Alive, Edinburgh,Expositions,
 939. Marmande En F�te,�v�nements culturels,8e Arr. � �lys�e
 940. Iboga Summer Fest,Festivals de musique,
 941. Unknown Mologa - Russian Atlantis,Expositions,Ouvert
@@ -842,7 +842,7 @@ Titre1,Type,Lieux
 980. Van Gogh Dublin - An Immersive Journey,Expositions,Ouvert
 981. Jurassic Turtles,Expositions,Ouvert
 982. Saga Festival,Festivals de musique,
-"983. Yumping Adventure, S.L.",Manifestations sportives,Las Tablas
+983. Yumping Adventure, S.L.,Manifestations sportives,Las Tablas
 984. Festa Dell'Uva - Caluso,�v�nements culturels,
 985. Gallinelle,Galeries d'art � �v�nements culturels,
 986. Preston Music Festival,Festivals de musique,
@@ -1004,7 +1004,7 @@ Titre1,Type,Lieux
 1189. Run Dirt Race,Manifestations sportives,
 1190. Kulturhaus Caserne,�v�nements culturels,
 1191. New Destination GYM,Manifestations sportives,
-"1192. Cultural space ""Open Space""",�v�nements culturels,
+"1192. Cultural space ""Open Space"",�v�nements culturels,"
 1193. Sagra Del Fungo Porcino,Festival gastronomique,Ouvert
 1194. Whiddon Autumn Festival,Festivals de musique,
 1195. Cork Whisky Fest,Festival gastronomique,
@@ -1018,7 +1018,7 @@ Titre1,Type,Lieux
 1203. Exposition artistique - Saynetes De La Vie De Tous Les Jours,Expositions � Mus�es d'art,
 1204. The Kobasica Open - Sausage Festival,Festival gastronomique,
 1205. Sabay Festival,�v�nements culturels,
-"1206. Exhibition Hall ""Pushkinskiy""",Expositions,Ouvert
+"1206. Exhibition Hall ""Pushkinskiy"",Expositions,Ouvert"
 1207. Reggae Brunch,Festival gastronomique,
 1208. Festival Les Galettes Du Monde,Festivals de musique,Ouvert
 1209. The Art of Banksy - Without Limits,Expositions,Ouvert
