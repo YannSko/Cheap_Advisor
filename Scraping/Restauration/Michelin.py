@@ -85,7 +85,7 @@ for j in tqdm(range(546,835)):  # add 15 later
         req5 = Request(url5,headers={'User-agent':'Mozilla/4.0'})
         webpage5 = urlopen(req5)
         page5 = bs(webpage5,"html.parser")
-        #time.sleep(2)
+        time.sleep(3)
         # If no address, skip this restaurant
 
         restaurant_elements5 = page5.findAll('div', class_='col-xl-4 order-xl-8 col-lg-5 order-lg-7 restaurant-details__aside')
@@ -119,9 +119,9 @@ for j in tqdm(range(546,835)):  # add 15 later
 
     # Create a dataframe with the data of Michelin + Yelp
     TempCSV = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
-    TempCSV.to_csv('CSV/TempData.csv',mode='a',index=True,encoding='utf-8')
+    TempCSV.to_csv('CSV/TempData.csv',mode='w',index=True,encoding='utf-8')
     print(TempCSV)
 
 df = pd.DataFrame(Data,columns=['Name','Link','Type','Address'])
-df.to_csv('CSV/Data.csv',mode='a',index=True,encoding='utf-8')
+df.to_csv('CSV/Data2.csv',mode='a',index=True,encoding='utf-8')
 print(df)
