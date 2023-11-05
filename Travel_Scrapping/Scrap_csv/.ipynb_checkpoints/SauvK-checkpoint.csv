@@ -1,0 +1,740 @@
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+32,2023-11-22,2023-11-28,BER,MAD,07:00 – 10:15,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 15min,212 €,Iberia Express
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+32,2023-11-22,2023-11-28,BER,MAD,07:00 – 10:15,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 15min,212 €,Iberia Express
+33,2023-11-22,2023-11-28,BER,MAD,14:05 – 23:50,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,1 escale,9h 45min,103 €,Ryanair
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+32,2023-11-22,2023-11-28,BER,MAD,07:00 – 10:15,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 15min,212 €,Iberia Express
+33,2023-11-22,2023-11-28,BER,MAD,14:05 – 23:50,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,1 escale,9h 45min,103 €,Ryanair
+34,2023-11-22,2023-11-28,BER,MAD,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+32,2023-11-22,2023-11-28,BER,MAD,07:00 – 10:15,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 15min,212 €,Iberia Express
+33,2023-11-22,2023-11-28,BER,MAD,14:05 – 23:50,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,1 escale,9h 45min,103 €,Ryanair
+34,2023-11-22,2023-11-28,BER,MAD,,,,,,
+35,2023-11-22,2023-11-28,BER,MAD,,,,,,
+,Date_Départ,Date_arrivée,VILLE_DEPART,VILLE_ARRIVEE,Horaires,Trajet,Type de trajet,Temps de trajet,Prix,Compagnie de vol
+0,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,118 €,Air France
+1,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,86 €,easyJet
+2,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,96 €,easyJet
+3,2023-11-22,2023-11-28,BER,PAR,09:05 – 10:55,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,102 €,easyJet
+4,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,104 €,easyJet
+5,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,114 €,easyJet
+6,2023-11-22,2023-11-28,BER,PAR,20:15 – 22:05,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,117 €,Air France
+7,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,"easyJet Europe, easyJet"
+8,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,123 €,easyJet Europe
+9,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,126 €,easyJet
+10,2023-11-22,2023-11-28,BER,PAR,15:45 – 17:35,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,126 €,Air France
+11,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,"easyJet Europe, easyJet"
+12,2023-11-22,2023-11-28,BER,PAR,20:30 – 22:20,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,134 €,easyJet Europe
+13,2023-11-22,2023-11-28,BER,PAR,09:00 – 10:50,BERAéroport de Berlin Brandebourg-ORYAéroport de Paris-Orly,direct,1h 50min,135 €,easyJet
+14,2023-11-22,2023-11-28,BER,PAR,18:20 – 20:10,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,132 €,Air France
+15,2023-11-22,2023-11-28,BER,PAR,12:25 – 14:15,BERAéroport de Berlin Brandebourg-CDGAéroport Charles-de-Gaulle,direct,1h 50min,140 €,Air France
+16,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,94 €,Ryanair
+17,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,92 €,Ryanair
+18,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,137 €,Ryanair
+19,2023-11-22,2023-11-28,BER,ROM,21:45 – 23:55,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,143 €,"Ryanair, easyJet"
+20,2023-11-22,2023-11-28,BER,ROM,15:00 – 17:05,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 05min,172 €,easyJet
+21,2023-11-22,2023-11-28,BER,ROM,,,,,,
+22,2023-11-22,2023-11-28,BER,ROM,12:15 – 14:25,BERAéroport de Berlin Brandebourg-FCOAéroport Léonard-de-Vinci de Rome Fiumicino,direct,2h 10min,179 €,"Ryanair, easyJet"
+23,2023-11-22,2023-11-28,BER,ROM,,,,,,
+24,2023-11-22,2023-11-28,BER,ROM,,,,,,
+25,2023-11-22,2023-11-28,BER,ROM,,,,,,
+26,2023-11-22,2023-11-28,BER,ROM,,,,,,
+27,2023-11-22,2023-11-28,BER,ROM,,,,,,
+28,2023-11-22,2023-11-28,BER,ROM,,,,,,
+29,2023-11-22,2023-11-28,BER,ROM,,,,,,
+30,2023-11-22,2023-11-28,BER,ROM,,,,,,
+31,2023-11-22,2023-11-28,BER,ROM,,,,,,
+32,2023-11-22,2023-11-28,BER,MAD,07:00 – 10:15,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 15min,212 €,Iberia Express
+33,2023-11-22,2023-11-28,BER,MAD,14:05 – 23:50,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,1 escale,9h 45min,103 €,Ryanair
+34,2023-11-22,2023-11-28,BER,MAD,,,,,,
+35,2023-11-22,2023-11-28,BER,MAD,,,,,,
+36,2023-11-22,2023-11-28,BER,MAD,19:50 – 23:00,BERAéroport de Berlin Brandebourg-MADAéroport de Madrid-Barajas,direct,3h 10min,234 €,Iberia

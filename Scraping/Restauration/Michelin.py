@@ -56,7 +56,7 @@ Data = []
 # 22 éléments par pages
 url2 = "https://guide.michelin.com/en/restaurants/"+"page/"
 print(url2)
-for j in tqdm(range(546,835)):  # add 15 later
+for j in tqdm(range(1,540)):  # add 15 later
     if j == 463 or j == 464:
         continue
     url3 = url2 + str(j)
@@ -85,7 +85,7 @@ for j in tqdm(range(546,835)):  # add 15 later
         req5 = Request(url5,headers={'User-agent':'Mozilla/4.0'})
         webpage5 = urlopen(req5)
         page5 = bs(webpage5,"html.parser")
-        #time.sleep(2)
+        time.sleep(2)
         # If no address, skip this restaurant
 
         restaurant_elements5 = page5.findAll('div', class_='col-xl-4 order-xl-8 col-lg-5 order-lg-7 restaurant-details__aside')
