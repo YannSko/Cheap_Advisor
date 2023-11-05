@@ -1,0 +1,332 @@
+titre,prix,nombres de passagers,nombre de grands bagages,type de boîtes,nombre de portes,localisation,debut de la location,fin de la location,ville,pays
+
+Catégorie de véhicule : Économique,84 €,4,1,M,3,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Économique,89 €,4,1,M,3,"Scharnweberstraße 134-135, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Skoda Fabia,89 €,5,2,M,3,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Fiat Panda,70 €,4,2,M,3,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Skoda Fabia,94 €,5,2,M,3,"Scharnweberstraße 134-135, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Skoda Fabia,124 €,5,2,A,3,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Économique,118 €,4,1,A,3,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Skoda Kamiq,126 €,5,1,M,4,"Lahnstraße 36, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Fiat Panda,74 €,4,2,M,3,"Scharnweberstraße 134-135, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Économique,124 €,4,1,A,3,"Scharnweberstraße 134-135, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Cabriolet,299 €,2,1,M,2,"Kaiserdamm 37, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Cabriolet,299 €,2,1,M,2,"Budapester Str. 45, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Cabriolet,299 €,2,1,M,2,"Grunerstr. 5+7, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Cabriolet,299 €,2,1,M,,,2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Catégorie de véhicule : Cabriolet,299 €,2,1,M,2,"Mohrenstr. 30, Berlin",2023-11-24,2023-11-30,Berlin,Allemagne-c9109
+Peugeot 208,110 €,5,1,M,5,"193 Rue De Bercy, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Fiat 500,110 €,4,1,M,3,"193 Rue De Bercy, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Peugeot 208,120 €,5,2,M,4-5,"Parking Indigo Euronord Lariboisière, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Peugeot 208,133 €,5,1,A,5,"60-62 Boulevard Diderot, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Renault Twingo,125 €,4,2,M,2-4,"10 Rue Jean-baptiste Pigalle, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Peugeot 208,129 €,5,1,A,5,CDG: Paris Aéroport Charles-de-Gaulle,2023-11-24,2023-11-30,Paris,France-c36014
+Fiat 500,164 €,2,1,M,2,"193 Rue De Bercy, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Catégorie de véhicule : Citadine,126 €,4,1,A,3,CDG: Paris Aéroport Charles-de-Gaulle,2023-11-24,2023-11-30,Paris,France-c36014
+Renault Twingo,127 €,4,2,M,2-4,"181 Bd Vincent Auriol, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Renault Twingo,127 €,4,2,M,2-4,"2 Avenue De La Porte, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Peugeot 3008,158 €,5,3,M,5,"193 Rue De Bercy, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Fiat 500,120 €,4,1,M,2-3,"Parking Indigo Euronord Lariboisière, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Peugeot 2008,110 €,5,2,M,5,"193 Rue De Bercy, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Renault Twingo,129 €,4,2,M,2-4,"Paris Nation, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Opel Corsa,142 €,5,2,M,4,"10 Rue Jean-baptiste Pigalle, Paris",2023-11-24,2023-11-30,Paris,France-c36014
+Catégorie de véhicule : SUV intermédiaire,42 €,5,2,A,4,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : SUV compact,27 €,5,1,M,4,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : Économique,22 €,4,1,M,4,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Volkswagen Golf,38 €,5,2,A,5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Volkswagen Golf,32 €,5,2,M,5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : Économique,19 €,5,1,M,5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : Économique,20 €,4,1,A,4,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Dacia Duster,55 €,5,3,M,,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Audi A3 Sportback,46 €,5,3,A,5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : Économique,28 €,5,1,M,5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+,,,,,,,2023-11-24,2023-11-30,Rome,Italie-c25465
+Catégorie de véhicule : Économique,23 €,4,2,M,4-5,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+Fiat 500,30 €,4,1,M,3,FCO: Rome Aéroport Léonard-de-Vinci de Rome Fiumicino,2023-11-24,2023-11-30,Rome,Italie-c25465
+,,,,,,,2023-11-24,2023-11-30,Rome,Italie-c25465
+,,,,,,,2023-11-24,2023-11-30,Rome,Italie-c25465
+Ford Fiesta,35 €,5,1,M,4,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Catégorie de véhicule : Cabriolet,62 €,4,1,M,2-3,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Ford Focus,45 €,5,1,M,4,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500,38 €,4,1,A,4,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500X,47 €,5,3,M,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Volkswagen T-Cross,55 €,5,2,M,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Volkswagen T-Cross,72 €,5,2,A,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Nissan Qashqai,56 €,5,1,M,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Citroen Grand C4 Picasso,155 €,7,,M,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Catégorie de véhicule : Citadine,31 €,4,1,M,2,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Opel Corsa,42 €,5,1,M,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500C,58 €,4,1,M,2,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Jeep Renegade,75 €,5,2,A,5,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500,41 €,4,1,M,3,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500,45 €,4,1,M,3,MAD: Madrid Aéroport de Madrid-Barajas,2023-11-24,2023-11-30,Madrid,Espagne-c32213
+Fiat 500,71 €,4,1,M,3,LGW: Londres Aéroport de Londres-Gatwick,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Ford Fiesta,79 €,5,1,M,5,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Fiat 500,77 €,4,1,M,2,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Fiat 500,76 €,4,1,M,3,LCY: Londres Aéroport de Londres City,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Ford Fiesta,74 €,5,1,M,4,LGW: Londres Aéroport de Londres-Gatwick,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Fiat 500,72 €,4,1,M,3,STN: Londres Aéroport de Londres Stansted,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Toyota C-HR,288 €,4,3,A,5,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Ford Fiesta,74 €,5,1,M,4,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Fiat 500,72 €,4,1,M,3,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Ford Focus,77 €,5,3,M,4-5,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Ford Fiesta,76 €,5,1,M,4,STN: Londres Aéroport de Londres Stansted,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Kia Cee'd,83 €,5,2,M,4-5,LCY: Londres Aéroport de Londres City,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Kia Rio,82 €,5,1,M,3,LCY: Londres Aéroport de Londres City,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Volkswagen Golf,83 €,5,2,M,5,LHR: Londres Aéroport de Londres-Heathrow,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Kia Rio,82 €,5,1,M,4-5,LGW: Londres Aéroport de Londres-Gatwick,2023-11-24,2023-11-30,Londre,"Angleterre,Royaume-Uni-c28501"
+Catégorie de véhicule : Grand SUV,85 €,5,3,A,,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Volkswagen Polo,18 €,5,1,M,5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Seat Arona,37 €,5,2,M,4-5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Mitsubishi Mirage,31 €,4,1,M,2-3,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Peugeot 208,35 €,5,1,M,5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Volkswagen T-Cross,37 €,5,3,M,4-5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Peugeot 208,29 €,5,2,M,4-5,"Avenida Marechal Gomes Da Costa 29 D, Lisbonne",2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Volkswagen Polo,31 €,4,1,M,4-5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Nissan Qashqai,58 €,5,3,A,5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Opel Corsa,30 €,5,1,M,4-5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Volkswagen Polo,20 €,5,2,M,4,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Seat Arona,41 €,5,3,M,5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Catégorie de véhicule : SUV,38 €,5,2,M,,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+,,,,,,,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Peugeot 208,60 €,4,1,A,4-5,LIS: Lisbonne Aéroport de Lisbonne - Humberto Delgado,2023-11-24,2023-11-30,Lisbonne,Portugal-c2172
+Toyota Aygo,143 €,4,1,M,2,"Overtoom 333, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Kia Picanto,146 €,4,2,M,2-4,"Nassaukade 380, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Ford Fiesta,150 €,5,1,M,4-5,"Overtoom 333, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Hyundai i20,154 €,4,1,M,4-5,"Nassaukade 380, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Fiat Panda,155 €,4,2,M,2-4,"Nassaukade 380, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Hyundai i20,163 €,5,2,M,2-4,"Nassaukade 380, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Kia Cee'd,164 €,5,2,M,4,"Nassaukade 380, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Kia Picanto,174 €,4,2,M,2-4,"Aaron Coplandstraat 6, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Hyundai i20,176 €,4,1,M,4-5,"Aaron Coplandstraat 6, Amsterdam",2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+,,,,,,,2023-11-24,2023-11-30,Amsterdam,Pays-Bas-c1334
+Ford Fiesta,128 €,5,1,M,5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Lancia Delta,167 €,5,3,M,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Opel Corsa,129 €,5,1,M,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Seat Arona,185 €,5,3,M,,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Mercedes-Benz A-Class,178 €,5,3,A,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Volkswagen T-Cross,186 €,5,3,A,5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Nissan Qashqai,327 €,5,3,A,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Audi A3,191 €,5,3,M,5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Ford Fiesta,153 €,5,1,M,5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Citroen C3,166 €,5,1,A,4-5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Catégorie de véhicule : SUV standard,189 €,5,4,M,4-5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Seat Arona,195 €,5,3,A,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Opel Mokka,200 €,5,3,M,5,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Kia Picanto,121 €,4,2,M,2,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Toyota Yaris,212 €,5,1,A,4,BRU: Bruxelles Aéroport de Bruxelles-National,2023-11-24,2023-11-30,Bruxelle,Belgique-c32869
+Volkswagen T-Cross,97 €,5,1,M,5,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen T-Cross,97 €,5,1,M,5,"Conrad Hotel,earlsfort Terrace, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen T-Cross,97 €,5,1,M,5,"Q-park, Marlborough Street, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Ford Fiesta,92 €,4,1,M,4,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen T-Cross,97 €,5,1,M,5,"Rochestown Ave, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Nissan Qashqai,164 €,5,3,A,5,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Ford Fiesta,88 €,5,1,M,4,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Ford Fiesta,104 €,4,1,M,4-5,"151 Lower Drumcondra Road, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen Polo,95 €,5,1,M,5,"Q-park, Marlborough Street, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen Polo,95 €,5,1,M,5,"Conrad Hotel,earlsfort Terrace, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen Polo,95 €,5,1,M,5,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen T-ROC,110 €,5,2,M,5,"Conrad Hotel,earlsfort Terrace, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Volkswagen T-ROC,110 €,5,2,M,5,"Q-park, Marlborough Street, Dublin",2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Ford Fiesta,98 €,4,1,M,4,DUB: Aéroport de Dublin,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+,,,,,,,2023-11-24,2023-11-30,Dublin,Irlande-c7362
+Catégorie de véhicule : Citadine,141 €,4,1,M,2-3,"Gammel Kongevej 13,City-office., Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Catégorie de véhicule : Citadine,136 €,4,1,M,3,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Citroen C3,157 €,5,1,M,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Volkswagen Polo,139 €,5,2,M,5,"Gammel Kongevej 13,City-office., Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Opel Corsa,167 €,5,1,M,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Renault Zoe,167 €,4,1,A,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Kia Cee'd,198 €,4,2,M,4,"Banevingen 12, Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Kia Picanto,154 €,4,2,M,2-4,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Citroen C3,169 €,5,1,A,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Volkswagen Polo,139 €,5,2,M,5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Renault Clio,161 €,5,1,M,5,"Gammel Kongevej 13- City-office (No Return Of Trucks!), Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Ford Fiesta,169 €,5,1,M,5,"Copenhagen Downtown, Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Honda Fit,154 €,4,2,A,5,"Gammel Kongevej 13,City-office., Copenhague",2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Citroen C3,175 €,5,1,M,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Citroen C3,174 €,5,1,M,4-5,CPH: Copenhague Aéroport de Copenhague Kastrup,2023-11-24,2023-11-30,Copenhague,Danemark-c8533
+Toyota C-HR,154 €,5,2,A,5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Catégorie de véhicule : Compacte,124 €,5,1,A,4,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Toyota C-HR,140 €,5,2,A,5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Catégorie de véhicule : Économique,137 €,4,1,A,4,"Holbergsgaten 30, Oslo",2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Catégorie de véhicule : Économique,137 €,4,1,A,4,"Oslo Railway Station, Oslo",2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Suzuki Vitara,138 €,5,3,M,5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Volkswagen ID.4,153 €,5,3,A,,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Suzuki Vitara,146 €,5,3,A,5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Peugeot 208,133 €,5,1,M,2,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Volkswagen Polo,154 €,5,2,A,4-5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Volkswagen ID.4,153 €,5,3,A,5,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Catégorie de véhicule : SUV standard,175 €,5,4,A,,"Sjogata 4, Oslo",2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Suzuki SX4 S-Cross,171 €,5,4,M,,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Volkswagen ID.4,139 €,5,3,A,,OSL: Oslo Aéroport d'Oslo-Gardermoen,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+,,,,,,,2023-11-24,2023-11-30,Oslo,Norvege-c29309
+Peugeot 208,119 €,5,1,A,4-5,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Volkswagen Golf,124 €,5,1,A,4,BMA: Stockholm Aéroport de Stockholm-Bromma,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Cee'd,128 €,5,2,A,4,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Catégorie de véhicule : Compacte,124 €,5,2,A,4,BMA: Stockholm Aéroport de Stockholm-Bromma,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Cee'd,133 €,5,2,A,4,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Peugeot 208,122 €,5,1,A,4-5,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Cee'd,125 €,5,2,A,4,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Peugeot 208,126 €,5,1,A,4-5,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Catégorie de véhicule : Compacte,133 €,5,2,A,4,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Niro,164 €,5,3,A,,NYO: Stockholm Aéroport de Stockholm-Skavsta,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Niro,173 €,5,3,A,,NYO: Stockholm Aéroport de Stockholm-Skavsta,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Peugeot 308,169 €,5,2,M,4-5,BMA: Stockholm Aéroport de Stockholm-Bromma,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Choisie par l’agence,131 €,,,A,,ARN: Stockholm Aéroport de Stockholm-Arlanda,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Skoda Fabia,192 €,5,2,M,4-5,BMA: Stockholm Aéroport de Stockholm-Bromma,2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Kia Cee'd,182 €,4,2,A,4,"Malaxgatan 2, Stockholm",2023-11-24,2023-11-30,Stockolm,Suede-c9880
+Renault Clio,113 €,5,1,M,5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen Polo,125 €,5,1,A,4,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen Polo,125 €,5,1,M,4,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Opel Karl,130 €,4,2,M,4-5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Opel Karl,129 €,4,2,A,4-5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen up!,106 €,4,1,M,4,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen up!,320 €,2,1,M,4,"Mekaanikonkatu 10, Helsinki",2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Opel Corsa,132 €,5,2,M,2-4,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen Golf,135 €,5,2,M,5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Land Rover Range Rover,323 €,5,,A,5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen Polo,156 €,5,1,A,5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen Polo,138 €,5,2,A,4-5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Ford Fiesta,172 €,5,1,A,4-5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Land Rover Range Rover,323 €,5,,A,5,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Volkswagen up!,124 €,5,1,M,4,HEL: Helsinki Aéroport de Vantaa,2023-11-24,2023-11-30,Helsinki,Finlande-c7232
+Hyundai i10,146 €,4,1,M,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Volkswagen up!,159 €,4,2,M,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Volkswagen Polo,164 €,5,1,M,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Honda Fit,165 €,5,1,A,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+,,,,,,,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Catégorie de véhicule : Citadine,180 €,4,2,A,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Volkswagen Polo,185 €,5,2,M,4-5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Hyundai i10,190 €,4,2,A,2-4,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Toyota Aygo,191 €,5,2,M,4,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Hyundai i20,194 €,5,1,M,4,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+,,,,,,,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+,,,,,,,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Dacia Duster,195 €,5,2,M,5,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Kia Picanto,200 €,5,2,M,4,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Kia Picanto,200 €,5,2,M,4,KEF: Reykjavik Keflavik Intl,2023-11-24,2023-11-30,Reykjavik,Islande-c11024
+Fiat 500,43 €,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+Fiat 500,44 €,4,1,M,3,WAW: Varsovie Aéroport de Varsovie-Chopin,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+Volkswagen Polo,48 €,5,1,M,5,WAW: Varsovie Aéroport de Varsovie-Chopin,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+Toyota Yaris,45 €,5,1,M,2,WAW: Varsovie Aéroport de Varsovie-Chopin,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+Opel Corsa,150 €,2,2,M,2,WAW: Varsovie Aéroport de Varsovie-Chopin,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+,,,,,,,2023-11-24,2023-11-30,Varsovie,Pologne-c16954
+Volkswagen Polo,83 €,5,1,M,4-5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Rapid,82 €,5,1,M,4,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Volkswagen Polo,103 €,5,1,A,4-5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Kodiaq,183 €,5,3,M,5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Volkswagen Golf,86 €,5,2,M,,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Fabia,75 €,5,2,M,4-5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Hyundai i20,387 €,5,1,M,4-5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Citigo,72 €,4,2,M,2-3,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Toyota Aygo,73 €,5,1,M,5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Catégorie de véhicule : SUV compact,111 €,5,3,M,,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Fabia,81 €,5,2,A,4-5,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Volkswagen Golf,84 €,5,2,M,,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Toyota Yaris,85 €,5,1,M,4-5,"Revolucni Street 1044/23, Prague",2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Volkswagen Golf,108 €,5,2,A,,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Skoda Rapid,103 €,5,1,A,4,PRG: Prague Aéroport de Prague-Václav-Havel,2023-11-24,2023-11-30,Prague,Republique-Tcheque-c19865
+Volkswagen Polo,43 €,4,1,M,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Volkswagen T-Cross,91 €,5,2,A,,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Peugeot 208,61 €,4,1,A,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Volkswagen T-Cross,80 €,5,3,M,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Toyota Aygo,41 €,4,2,M,3,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Peugeot 208,80 €,5,2,A,4-5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Catégorie de véhicule : SUV intermédiaire,113 €,5,3,M,,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Fiat 500,42 €,4,1,M,3,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Opel Corsa,55 €,5,1,M,4-5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Toyota Aygo,51 €,4,1,M,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Volkswagen Golf,58 €,5,2,M,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Volkswagen Polo,138 €,5,1,M,3,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Suzuki Swift,60 €,5,1,M,5,BUD: Budapest Aéroport de Budapest-Ferenc Liszt,2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Hyundai i10,140 €,4,2,M,4-5,"Visegradi Utca 101, Budapest",2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Hyundai i10,140 €,4,2,M,4-5,"Apaczai Csere Janos U. 4., Budapest",2023-11-24,2023-11-30,Budapest,Hongrie-c34945
+Hyundai i10,68 €,4,2,M,5,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Suzuki Vitara,105 €,5,1,M,4,"4, Fred-zinnemann-platz, Vienne",2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Opel Corsa,79 €,5,1,M,4-5,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Opel Corsa,92 €,5,1,M,4,"4, Fred-zinnemann-platz, Vienne",2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Fiat 500,89 €,5,1,M,2-3,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Suzuki Vitara,105 €,5,1,M,4,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Fiat Panda,77 €,5,2,M,2-4,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Opel Corsa,92 €,5,1,M,4,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Citroen DS3,107 €,5,1,A,5,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Suzuki Vitara,122 €,5,3,M,5,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Suzuki SX4 S-Cross,137 €,5,3,M,5,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Opel Corsa,90 €,5,1,M,3,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Suzuki SX4 S-Cross,147 €,5,3,A,,"4, Fred-zinnemann-platz, Vienne",2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Catégorie de véhicule : Citadine,79 €,5,2,M,4,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Fiat Panda,80 €,4,2,M,3,VIE: Vienne Aéroport de Vienne-Schwechat,2023-11-24,2023-11-30,Vienne,Autriche-c22046
+Seat Ibiza,22 €,5,2,M,5,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Peugeot 208,24 €,5,1,M,4,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Skoda Fabia,21 €,5,2,M,5,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Fiat Panda,26 €,4,1,M,3,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Opel Corsa,33 €,5,2,M,5,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Fiat 500,23 €,4,1,M,3,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Citroen C1,102 €,2,1,M,4,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Jeep Renegade,39 €,5,3,M,5,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+,,,,,,,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Catégorie de véhicule : Grand SUV,63 €,5,2,M,4,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Toyota Yaris,44 €,5,2,A,5,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+,,,,,,,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+,,,,,,,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Citroen C3,28 €,4,2,M,4,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Catégorie de véhicule : Cabriolet,83 €,4,1,M,,ATH: Athènes Aéroport d'Elefthérios-Venizélos,2023-11-24,2023-11-30,Athenes,"Attique,Grece-c24560"
+Ford Fiesta,13 €,5,2,M,2,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Catégorie de véhicule : SUV compact,13 €,5,3,M,5,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Toyota Auris,13 €,5,2,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Volkswagen Golf,13 €,5,2,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Kia Picanto,13 €,5,2,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Catégorie de véhicule : Break compact,13 €,5,3,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Hyundai i20,41 €,5,1,M,4-5,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Dacia Sandero,13 €,4,1,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Volkswagen Golf,14 €,5,2,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Kia Picanto,14 €,5,1,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Fiat Panda,21 €,5,1,M,5,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Volkswagen Polo,25 €,5,2,A,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Chevrolet Spark,20 €,4,1,M,4,SOF: Sofia Aéroport Intl de Sofia (Vrajdebna),2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+,,,,,,,2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+,,,,,,,2023-11-24,2023-11-30,Sofia,Bulgarie-c6035
+Hyundai i20,47 €,5,1,M,4-5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Hyundai i20,47 €,5,1,M,4-5,"Street Milutina Milankovica 27, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Fiat Panda,61 €,5,2,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Citroen C3,62 €,4,1,M,3,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Fiat Panda,62 €,5,1,M,5,"Bulevar Zorana Djindjica 59/23, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Fiat Panda,57 €,5,2,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Chevrolet Spark,95 €,4,2,M,4,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Chevrolet Spark,56 €,5,1,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Opel Corsa,67 €,5,1,M,4-5,"Antifasisticke Borbe 18, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Volkswagen Polo,67 €,5,1,M,4-5,"18, Antifasisticke Borbe, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Skoda Citigo,63 €,5,2,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Renault Clio,64 €,5,2,M,5,"Bulevar Zorana Djindjica 59/23, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Renault Clio,59 €,5,1,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Opel Corsa,65 €,5,1,M,4,"Belgrade Downtown, Belgrade",2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Dacia Sandero,66 €,5,2,M,5,BEG: Belgrade Nikola Tesla,2023-11-24,2023-11-30,Belgrade,Serbie-c8893
+Chevrolet Spark,63 €,5,2,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Fiat Panda,62 €,4,2,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Chevrolet Spark,70 €,5,2,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Catégorie de véhicule : Citadine,68 €,4,1,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Opel Corsa,69 €,5,2,M,5,"Naroden Front 5-1/2, Skopje",2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Suzuki Swift,67 €,5,3,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Seat Mii,113 €,2,1,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Fiat Linea,75 €,5,1,M,2,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Opel Corsa,69 €,5,1,M,4,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Catégorie de véhicule : SUV compact,93 €,5,3,M,,"Naroden Front 5-1/2, Skopje",2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Volkswagen Polo,76 €,5,1,M,3,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Hyundai i10,75 €,5,2,M,5,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Nissan Versa Note,75 €,5,2,M,5,SKP: Aéroport Alexandre-le-Grand de Skopje,2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Peugeot 308,79 €,5,2,M,5,"Naroden Front 5-1/2, Skopje",2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
+Peugeot 208,107 €,5,1,A,4-5,"Naroden Front 5-1/2, Skopje",2023-11-24,2023-11-30,Skopje,Macedoine-du-Nord-c18146
