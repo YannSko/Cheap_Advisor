@@ -64,10 +64,13 @@ CREATE TABLE IF NOT EXISTS Hotel (
 $sql_create_voyage_table = "
 CREATE TABLE IF NOT EXISTS Voyage (
     ID INT AUTO_INCREMENT PRIMARY KEY,
+    Date_Départ  TIMESTAMP,
+    Date_arrivée  TIMESTAMP,
+    Horaire VARCHAR(255),
     trajet VARCHAR(255),
     type_trajet VARCHAR(255),
-    temps_trajet TIME,
-    prix DECIMAL(10, 2),
+    temps_trajet VARCHAR(255),
+    prix VARCHAR(30),
     type_voyage VARCHAR(255),
     Compagnie VARCHAR(255),
     VILLE_DEPART INT,
